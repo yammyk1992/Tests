@@ -22,5 +22,5 @@ class SomeWebClient:
         return result
 
 
-some_resource_client = SomeWebClient('https://profile.onliner.by')
-print(some_resource_client.get_user_registration_date(3671980))
+# some_resource_client = SomeWebClient('https://profile.onliner.by')
+# print(some_resource_client.get_user_registration_date(3671980))
